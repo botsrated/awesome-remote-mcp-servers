@@ -3457,6 +3457,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AssetFare](https://assetfare.dev) `https://api.assetfare.dev/mcp`
   [![AssetFare MCP connector](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.odaiin/assetfare)
   🔓 - Compare and prepare non-custodial SOL to Base or Arbitrum ETH routes for you to sign.
+- [BotsRated](https://botsrated.com) `https://botsrated.com/mcp`
+  [![BotsRated MCP connector](https://glama.ai/mcp/connectors/com.botsrated/botsrated/badges/score.svg)](https://glama.ai/mcp/connectors/com.botsrated/botsrated)
+  🔓 - Look up measured status, 402 validity, latency, price and payTo of paid x402 APIs on Base before paying.
 - [Checkout Page](https://checkoutpage.com) `https://mcp.checkoutpage.com`
   [![Checkout Page MCP connector](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page/badges/score.svg)](https://glama.ai/mcp/connectors/com.checkoutpage/checkout-page)
   🔐 - Create checkout pages, events and forms, and manage payments, bookings, subscriptions, customers and coupons.
